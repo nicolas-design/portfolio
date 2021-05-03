@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: "I'm Nicolas Gadner, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -28,9 +28,7 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I am a 20 year old Student from Austria passionate about Kitesurfing and Web-Development
 features:
   - icon: monitor-screenshot
     text: >
@@ -77,4 +75,3 @@ portfolio:
 footer:
   text: © John Doe
 ---
-
